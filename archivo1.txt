@@ -1,3 +1,4 @@
 Este es un archivo de texto que estoy haciendo para practicar comandos git!
 Un chanchito feliz
 Un chanchito triste
+Adding more things to this txt doc
